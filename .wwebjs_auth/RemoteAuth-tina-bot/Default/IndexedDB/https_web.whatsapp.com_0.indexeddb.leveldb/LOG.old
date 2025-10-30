@@ -1,0 +1,31 @@
+2025/10/29-02:35:16.506 2888f3 Reusing MANIFEST /home/administrator/face/bot-tina/.wwebjs_auth/RemoteAuth-tina-bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/29-02:35:16.506 2888f3 Recovering log #1284
+2025/10/29-02:35:16.576 2888f3 Reusing old log /home/administrator/face/bot-tina/.wwebjs_auth/RemoteAuth-tina-bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001284.log 
+2025/10/29-02:35:19.135 28891e Level-0 table #1291: started
+2025/10/29-02:35:19.467 28891e Level-0 table #1291: 650932 bytes OK
+2025/10/29-02:35:19.475 28891e Delete type=0 #1284
+2025/10/29-02:35:19.494 28891b Manual compaction at level-0 from '\x00R\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00S\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/29-02:35:36.311 2888eb Compacting 1@1 + 3@2 files
+2025/10/29-02:35:36.790 2888eb Generated table #1292@1: 53070 keys, 2220670 bytes
+2025/10/29-02:35:37.156 2888eb Generated table #1293@1: 23202 keys, 2209435 bytes
+2025/10/29-02:35:37.451 2888eb Generated table #1294@1: 28491 keys, 1240499 bytes
+2025/10/29-02:35:37.451 2888eb Compacted 1@1 + 3@2 files => 5670604 bytes
+2025/10/29-02:35:37.461 2888eb compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/10/29-02:35:37.462 2888eb Delete type=2 #1288
+2025/10/29-02:35:37.462 2888eb Delete type=2 #1286
+2025/10/29-02:35:37.462 2888eb Delete type=2 #1291
+2025/10/29-02:35:37.462 2888eb Delete type=2 #1287
+2025/10/29-02:36:10.456 2888ec Level-0 table #1296: started
+2025/10/29-02:36:10.489 2888ec Level-0 table #1296: 95960 bytes OK
+2025/10/29-02:36:10.498 2888ec Delete type=0 #1290
+2025/10/29-02:36:10.500 2888f3 Manual compaction at level-0 from '\x00S\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00T\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/29-02:36:11.277 28891b Compacting 1@1 + 3@2 files
+2025/10/29-02:36:11.597 28891b Generated table #1297@1: 53331 keys, 2222562 bytes
+2025/10/29-02:36:11.906 28891b Generated table #1298@1: 23338 keys, 2209227 bytes
+2025/10/29-02:36:12.108 28891b Generated table #1299@1: 28531 keys, 1248648 bytes
+2025/10/29-02:36:12.109 28891b Compacted 1@1 + 3@2 files => 5680437 bytes
+2025/10/29-02:36:12.113 28891b compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/10/29-02:36:12.114 28891b Delete type=2 #1293
+2025/10/29-02:36:12.114 28891b Delete type=2 #1294
+2025/10/29-02:36:12.114 28891b Delete type=2 #1292
+2025/10/29-02:36:12.114 28891b Delete type=2 #1296
