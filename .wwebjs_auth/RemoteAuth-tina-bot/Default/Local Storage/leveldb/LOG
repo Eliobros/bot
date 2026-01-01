@@ -1,21 +1,6 @@
-2025/10/29-02:47:57.083 289d35 Reusing MANIFEST /home/administrator/face/bot-tina/.wwebjs_auth/RemoteAuth-tina-bot/Default/Local Storage/leveldb/MANIFEST-000001
-2025/10/29-02:47:57.083 289d35 Recovering log #10
-2025/10/29-02:47:57.084 289d35 Reusing old log /home/administrator/face/bot-tina/.wwebjs_auth/RemoteAuth-tina-bot/Default/Local Storage/leveldb/000010.log 
-2025/10/29-06:19:10.335 29ead8 Level-0 table #14: started
-2025/10/29-06:19:10.340 29ead8 Level-0 table #14: 15230 bytes OK
-2025/10/29-06:19:10.345 29ead8 Delete type=0 #10
-2025/10/29-15:09:39.362 2d14f6 Level-0 table #16: started
-2025/10/29-15:09:39.381 2d14f6 Level-0 table #16: 13436 bytes OK
-2025/10/29-15:09:39.395 2d14f6 Delete type=0 #13
-2025/10/29-23:10:07.744 2fecd3 Level-0 table #18: started
-2025/10/29-23:10:07.868 2fecd3 Level-0 table #18: 13639 bytes OK
-2025/10/29-23:10:07.875 2fecd3 Delete type=0 #15
-2025/10/29-23:10:07.896 2fecd3 Compacting 4@0 + 1@1 files
-2025/10/29-23:10:07.944 2fecd3 Generated table #19@0: 118 keys, 4351 bytes
-2025/10/29-23:10:07.944 2fecd3 Compacted 4@0 + 1@1 files => 4351 bytes
-2025/10/29-23:10:07.954 2fecd3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/10/29-23:10:07.955 2fecd3 Delete type=2 #18
-2025/10/29-23:10:07.955 2fecd3 Delete type=2 #8
-2025/10/29-23:10:07.955 2fecd3 Delete type=2 #14
-2025/10/29-23:10:07.955 2fecd3 Delete type=2 #11
-2025/10/29-23:10:07.955 2fecd3 Delete type=2 #16
+2025/12/22-12:26:16.867 14a6a2 Reusing MANIFEST /home/administrator/face/bot-tina/.wwebjs_auth/RemoteAuth-tina-bot/Default/Local Storage/leveldb/MANIFEST-000001
+2025/12/22-12:26:16.903 14a6a2 Recovering log #3
+2025/12/22-12:26:16.918 14a6a2 Reusing old log /home/administrator/face/bot-tina/.wwebjs_auth/RemoteAuth-tina-bot/Default/Local Storage/leveldb/000003.log 
+2025/12/22-12:30:19.703 14a914 Level-0 table #5: started
+2025/12/22-12:30:19.763 14a914 Level-0 table #5: 18386 bytes OK
+2025/12/22-12:30:19.835 14a914 Delete type=0 #3

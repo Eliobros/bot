@@ -45,7 +45,7 @@ module.exports = {
                 }, {
                     headers: {
                         'Content-Type': 'application/json',
-                        'X-API-Key': 'alauda_live_75c9bb0856b8fbba792d875de9c26163eee504f8db3b5c29a8a8b9a9e046e665'
+                        'X-API-Key': 'alauda_live_99a071963a4a21faf81b435dd4c01cc0c92c2de219881728866e829977213865'
                     },
                     timeout: 15000
                 });
@@ -108,7 +108,7 @@ module.exports = {
             }, {
                 headers: {
                     'Content-Type': 'application/json',
-                    'X-API-Key': 'alauda_live_75c9bb0856b8fbba792d875de9c26163eee504f8db3b5c29a8a8b9a9e046e665'
+                    'X-API-Key': 'alauda_live_99a071963a4a21faf81b435dd4c01cc0c92c2de219881728866e829977213865'
                 },
                 timeout: 60000
             });
